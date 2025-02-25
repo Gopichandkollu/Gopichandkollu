@@ -24,7 +24,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 👨‍🎓 I'm a **Software Engineering Student**
 - 🔭 I’m currently studying at Malla Reddy University
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
